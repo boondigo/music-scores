@@ -11,7 +11,10 @@ G/F#   2-x-0-0-3-3
 
 ## [Intro]
 
-c1: Em7   G   Dsus4   A7sus4   <!-- x4 -->
+c1: Em7   G   Dsus4   A7sus4
+c1: Em7   G   Dsus4   A7sus4
+c1: Em7   G   Dsus4   A7sus4
+c1: Em7   G   Dsus4   A7sus4
 
 ## [Verse 1]
 
